@@ -1,2 +1,2 @@
-#!/bin/bash
-Write-Host "Effective username: $user"
+#!/bin/bas
+id -un
